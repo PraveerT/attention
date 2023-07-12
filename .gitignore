@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.csv
+*.dat
+*.env  # for environment variables
